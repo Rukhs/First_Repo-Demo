@@ -1,4 +1,7 @@
 # First_Repo-Demo
 My first git repository
-<p> Author - Rukhsar Malik <p>
+<br>
+Author - Rukhsar Malik
+
+<p> First paragraph <p>
 
